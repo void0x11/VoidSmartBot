@@ -45,10 +45,10 @@ This project represents my third custom PCB design, and the first that truly fee
 
 ## 🖼️ Board Gallery
 
-<img src="pics/logo.png" width="45%">
-<img src="pics/pcb3.png" width="45%">
-<img src="pics/pcb4.png" width="45%">
-<img src="pics/pcb5.png" width="45%">
+<img src="pics/logo.png" width="75%">
+<img src="pics/pcb3.png" width="75%">
+<img src="pics/pcb4.png" width="75%">
+<img src="pics/pcb5.png" width="75%">
 
 ---
 
@@ -59,11 +59,14 @@ Schematic
 Layer 1 (Surface Mount)
 <img src="pics/Layer1.PNG" width="45%">
 
+
 Layer 2 (Light Signals, GND Refrence)
 <img src="pics/Layer2.PNG" width="45%">
 
+
 Layer 3 (Power Plane)
 <img src="pics/layer3.PNG" width="45%">
+
 
 Layer 4 (Main Traces)
 <img src="pics/Layer4.PNG" width="45%">
