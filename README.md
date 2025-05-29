@@ -54,20 +54,25 @@ This project represents my third custom PCB design, and the first that truly fee
 
 ## 🧱 Schematic & PCB Layer Stack
 Schematic
-<img src="pics/schematic.png" width="45%">
+
+<img src="pics/schematic.png">
 
 Layer 1 (Surface Mount)
-<img src="pics/Layer1.PNG" width="45%">
+
+<img src="pics/Layer1.PNG">
 
 
 Layer 2 (Light Signals, GND Refrence)
-<img src="pics/Layer2.PNG" width="45%">
+
+<img src="pics/Layer2.PNG">
 
 
 Layer 3 (Power Plane)
-<img src="pics/layer3.PNG" width="45%">
+
+<img src="pics/layer3.PNG">
 
 
 Layer 4 (Main Traces)
-<img src="pics/Layer4.PNG" width="45%">
+
+<img src="pics/Layer4.PNG">
 ---
