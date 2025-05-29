@@ -9,7 +9,7 @@
 **SmartBot Core V1.1** is a custom-designed control board tailored for mobile robotics platforms.  
 Built on a 4-layer FR4 stack, it combines reliable power management, motor control, encoder support, and clean communication — all in a compact, Arduino Mega-compatible footprint.
 
-This project represents my third custom PCB design, and the first that truly feels like a product.
+<img src="pics/logo.png">
 
 ---
 
@@ -45,7 +45,6 @@ This project represents my third custom PCB design, and the first that truly fee
 
 ## 🖼️ Board Gallery
 
-<img src="pics/logo.png">
 <img src="pics/pcb3.png">
 <img src="pics/pcb4.png">
 <img src="pics/pcb5.png">
@@ -75,4 +74,3 @@ Layer 3 (Power Plane)
 Layer 4 (Main Traces)
 
 <img src="pics/Layer4.PNG">
----
