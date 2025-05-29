@@ -45,10 +45,10 @@ This project represents my third custom PCB design, and the first that truly fee
 
 ## 🖼️ Board Gallery
 
-<img src="pics/logo.png" width="75%">
-<img src="pics/pcb3.png" width="75%">
-<img src="pics/pcb4.png" width="75%">
-<img src="pics/pcb5.png" width="75%">
+<img src="pics/logo.png">
+<img src="pics/pcb3.png">
+<img src="pics/pcb4.png">
+<img src="pics/pcb5.png">
 
 ---
 
