@@ -1,4 +1,4 @@
-# 📦 SmartBot Core V1.1
+# 📦 VoidSmartBot Core V1.1
 
 > A professionally engineered 4-layer PCB for mobile robotics and embedded systems.
 
